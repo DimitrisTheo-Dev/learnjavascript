@@ -1,0 +1,16 @@
+//list with dictionaries in python
+
+[
+    {
+        "name:": "Jim",
+        "age:": "18",
+        "height:": "185"
+
+    },
+    {
+        "name:": "Dimitris",
+        "age:": "20",
+        "height:": "190",
+
+    }
+]
