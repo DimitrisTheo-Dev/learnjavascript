@@ -11,7 +11,7 @@ console.log(b);
 var num = 5.3;
 console.log(50 /5);
 
-// to ad ++ and remove --
+// to add ++ and remove --
 //remainder %
 // increment decement +=
 // create a function and then call it 
